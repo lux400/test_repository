@@ -1,0 +1,3 @@
+[submodule "sub_repository"]
+	path = sub_repository
+	url = https://github.com/lux400/sub_repository.git
